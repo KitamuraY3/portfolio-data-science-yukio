@@ -7,8 +7,8 @@ Aqui você encontrará desde análises exploratórias até modelos de Machine Le
 
 ## 📌 Sobre mim
 
-Sou estudante de **Ciência de Dados** com foco em resolver problemas reais através de dados.  
-Atualmente, estou ampliando meus conhecimentos nas áreas de **Análise de Dados**, **Machine Learning** e **Visualização de Dados**.
+Sou formado em **Física (USP)** e **Ciência de Dados (FIAP)** com foco em resolver problemas reais através de dados.  
+Atualmente, estou ampliando meus conhecimentos nas áreas de **Análise de Dados**, **Machine Learning**, **Deep Learning** e **Visualização de Dados**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yukio-kitamura-957772b9)  
 📧 Email: yukio.kitamuraf@gmail.com  
