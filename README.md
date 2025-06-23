@@ -1,4 +1,3 @@
-
 # 📊 Portfólio de Ciência de Dados – Yukio Kitamura Filho
 
 Este é o meu repositório público de projetos em Ciência de Dados, cobrindo desde fundamentos de Python até Machine Learning.
