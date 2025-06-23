@@ -21,18 +21,24 @@ Atualmente, estou ampliando meus conhecimentos nas áreas de **Análise de Dados
 🔸 **Data_Analysis/** → Projetos de análise exploratória (EDA) com Pandas e Numpy  
 🔸 **Data_Visualization/** → Visualizações com Matplotlib e Seaborn  
 🔸 **SQL_Projects/** → Consultas e manipulações de dados usando SQL  
-🔸 **Machine_Learning/** → Modelos de Machine Learning (regressão, classificação, clustering)  
+🔸 **Machine_Learning/** → Modelos de Machine Learning (regressão, classificação, clustering etc)  
+🔸 **Deep_Learning/** → Modelos de Deep Learning (Redes Neurais Artificiais (ANNs), Convolutional Neural Networks (CNNs), e Recurrent Neural Networks (RNNs), utilizando TensorFlow e Keras)
 🔸 **Projects/** → Projetos completos (ex.: Titanic, House Prices, etc)  
 🔸 **Notebooks/** → Notebooks avulsos ou experimentais  
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias e Ferramentas
 
-- **Python** → Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn  
-- **SQL** → SQLite, MySQL, PostgreSQL  
-- **Ferramentas** → Jupyter Notebook, Google Colab, Git e GitHub  
-
+- **Python** → Principal linguagem utilizada para análise e modelagem de dados
+- **Pandas & Numpy** → Manipulação e análise eficiente de dados estruturados
+- **Matplotlib & Seaborn** → Criação de gráficos e visualizações estatísticas
+- **Scikit-learn** → Desenvolvimento de modelos de Machine Learning (regressão, classificação, clustering)
+- **TensorFlow & Keras** → Desenvolvimento de redes neurais e projetos de Deep Learning
+- **SQL (SQLite, MySQL, PostgreSQL)** → Extração e manipulação de dados relacionais
+- **Jupyter Notebook & Google Colab** → Desenvolvimento e compartilhamento de notebooks interativos
+- **Git & GitHub** → Controle de versão e hospedagem de projetos
+ 
 ---
 
 ## 🎯 Objetivo deste Portfólio
