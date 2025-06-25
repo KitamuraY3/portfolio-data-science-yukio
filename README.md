@@ -17,8 +17,7 @@ Atualmente, estou ampliando meus conhecimentos nas áreas de **Análise de Dados
 
 ## 📂 Estrutura do Repositório
 
-🔸 **Python_Basics/** → Fundamentos de Python (ex.: leitura de arquivos, manipulação de dados)  
-🔸 **Data_Analysis/** → Projetos de análise exploratória (EDA) com Pandas e Numpy  
+🔸 **Python_Basics_&_Data_Analysis/** → Fundamentos de Python (ex.: leitura de arquivos, manipulação de dados) e análise exploratória (EDA) com Pandas e Numpy    
 🔸 **Data_Visualization/** → Visualizações com Matplotlib e Seaborn  
 🔸 **SQL_Projects/** → Consultas e manipulações de dados usando SQL  
 🔸 **Machine_Learning/** → Modelos de Machine Learning (regressão, classificação, clustering etc)  
