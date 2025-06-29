@@ -4,6 +4,11 @@ Bem-vindo ao meu repositório público de projetos em Ciência de Dados! 🚀
 Aqui você encontrará desde análises exploratórias até modelos de Machine Learning.
 
 ---
+![GitHub repo size](https://img.shields.io/github/repo-size/KitamuraY3/portfolio-data-science-yukio)
+![GitHub language count](https://img.shields.io/github/languages/count/KitamuraY3/portfolio-data-science-yukio)
+![GitHub top language](https://img.shields.io/github/languages/top/KitamuraY3/portfolio-data-science-yukio)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+---
 
 ## 📌 Sobre mim
 
