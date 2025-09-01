@@ -13,12 +13,6 @@ O trabalho foi desenvolvido em **Python** dentro de um ambiente Jupyter Notebook
 
 ---
 
-## 📂 Estrutura do Projeto
-- `Developer_Survey.ipynb` → Notebook principal contendo toda a análise e modelagem.  
-- `data/` → Pasta destinada ao conjunto de dados (não incluído aqui por questões de direitos/licença).  
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3**  
 - **Bibliotecas**:  
@@ -45,32 +39,13 @@ O trabalho foi desenvolvido em **Python** dentro de um ambiente Jupyter Notebook
 
 4. **Resultados**  
    - Identificação de fatores relevantes.  
-   - Métricas de avaliação do modelo.  
-
----
-
-## 📊 Principais Insights
-- [Aqui você pode destacar 2 ou 3 descobertas importantes da EDA ou resultados do modelo]  
-- Exemplo: "A variável X apresentou forte correlação com Y"  
-- Exemplo: "O modelo atingiu um R² de XX%, mostrando boa capacidade preditiva"  
-
----
-
-## ▶️ Como Executar
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/Developer_Survey.git
-   ```
-2. Instale as dependências necessárias:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Abra o Jupyter Notebook e execute:  
-   ```bash
-   jupyter notebook Developer_Survey.ipynb
-   ```
-
----
+   - Métricas de avaliação do modelo.
+       - Métricas de Avaliação do Modelo:
+            MAE (Teste): 0.6236
+            MSE (Teste): 1.0466
+            RMSE (Teste): 1.0230
+            R² (Teste): 0.3073
+--
 
 ## 📌 Autor
 **Yukio Kitamura Filho**  
