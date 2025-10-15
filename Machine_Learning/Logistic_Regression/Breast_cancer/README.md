@@ -29,10 +29,6 @@ Este projeto apresenta um pipeline de análise exploratória, seleção de vari�
 - O modelo acerta a grande maioria dos diagnósticos, especialmente malignos, com baixo índice de falsos negativos
 - Notebook documentado e comentado para facilitar reprodutibilidade e aprendizado
 
-## Como Executar
-1. Clone o repositório
-2. Instale as dependências listadas em `requirements.txt`
-3. Execute o notebook `breast_cancer.ipynb` em um ambiente Jupyter ou VSCode
 
 ## Tecnologias Utilizadas
 - Python 3.8+
