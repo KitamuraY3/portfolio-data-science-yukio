@@ -58,9 +58,7 @@ O XGBoost apresentou menor erro médio e melhor adaptação às variações da d
 ## 📦 Simulação de Planejamento de Estoque
 Foi realizada uma simulação de planejamento de estoque baseada nas previsões do modelo XGBoost. Um buffer de segurança foi calculado a partir do percentil 95% do erro absoluto histórico do modelo, conforme a fórmula:
 
-```python
 buffer_seguranca = np.percentile(abs(residuos), 95)
-```python
 
 Essa abordagem permite mitigar riscos de ruptura de estoque ao considerar cenários de erro extremo, mantendo um equilíbrio entre nível de serviço e custo de armazenagem.
 
